@@ -29,8 +29,8 @@ THEME = {
     "card":      "#272c35",   # card panels
     "accent":    "#4a90d9",   # primary blue
     "accent_hi": "#5fa3e8",   # hover blue
-    "text":      "#e8eaed",   # main text
-    "muted":     "#9aa0a8",   # secondary text
+    "text":      "#7c899b",   # main text
+    "muted":     "#a9abb0",   # secondary text
     "ok":        "#5ec27a",   # green (success / live)
     "warn":      "#e0a93b",   # amber (cached)
     "err":       "#e0604f",   # red (error / offline)
