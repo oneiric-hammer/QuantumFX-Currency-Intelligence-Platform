@@ -5,7 +5,7 @@
 ### *The World's Most Advanced Hyper-Converged Foreign Exchange Conversion Engine*
 
 **Redefining the future of monetary value translation, one transaction at a time.**
-
+<img src="verycool.png">
 ---
 
 ![Status](https://img.shields.io/badge/status-PRODUCTION%20READY-brightgreen?style=for-the-badge)
