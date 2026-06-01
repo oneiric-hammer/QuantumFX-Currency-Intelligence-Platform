@@ -25,7 +25,7 @@ FALLBACK_RATES = {
 #  THEME (one place to recolour the whole app)
 # ============================================================
 THEME = {
-    "bg":        "#1e2229",   # main background
+    "bg":        "#1e2228",   # main background
     "card":      "#272c35",   # card panels
     "accent":    "#4a90d9",   # primary blue
     "accent_hi": "#5fa3e8",   # hover blue
